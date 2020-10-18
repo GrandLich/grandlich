@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **MinecraftForge, CraftBukkit**
 
-- 📝 My VK link: [https://vk.com/l_l_l_mister_lich_l_l_l](https://vk.com/l_l_l_mister_lich_l_l_l)
-
-- 📫 How to reach me **seregastepanishev@yandex.ru**
+- 📫 How to reach me **seregastepanishev@yandex.ru**, [https://vk.com/l_l_l_mister_lich_l_l_l](https://vk.com/l_l_l_mister_lich_l_l_l)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

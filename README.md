@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm GrandLich</h1>
-<h3 align="center">An independent backend developer from Russian Federation</h3>
+<h3 align="center">Backend developer from Russian Federation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grandlich" alt="grandlich" /> </p>
 

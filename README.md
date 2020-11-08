@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [Pentacraft - Minecraft modded servers](https://pentacraft.ru/) as project manager & software developer
 
-- 🌱 I’m currently learning **MinecraftForge, CraftBukkit**
+- 🌱 I’m currently learning **MinecraftForge, CraftBukkit, Spring Framework**
 
 - 📫 How to reach me **seregastepanishev@yandex.ru**, [https://vk.com/l_l_l_mister_lich_l_l_l](https://vk.com/l_l_l_mister_lich_l_l_l)
 

@@ -7,7 +7,3 @@
 
 - 📫 How to reach me **seregastepanishev@yandex.ru**, [VK](https://vk.com/l_l_l_mister_lich_l_l_l) / [Telegram](https://teleg.run/grand_mrlich)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandlich&layout=compact" alt="grandlich" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grandlich&show_icons=true" alt="grandlich" /></p>
-

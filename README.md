@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning **FabricMC, Spring Framework, Apache Kafka, Liquibase, PostgreSQL**
 
-- 📫 How to reach me **seregastepanishev@yandex.ru**, [VK](https://vk.com/l_l_l_mister_lich_l_l_l) / [Telegram](https://teleg.run/grand_mrlich)
+- 📫 How to reach me **seregastepanishev@yandex.ru**, [Telegram](https://teleg.run/grand_mrlich)
 

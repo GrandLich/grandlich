@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm GrandLich</h1>
+<h1 align="center">Hello there 👋, I'm GrandGay</h1>
 <h3 align="center">Backend developer from Russian Federation</h3>
 
 <p align="center">
